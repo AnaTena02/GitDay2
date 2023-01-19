@@ -8,5 +8,11 @@ public class HomePage {
 
     //more changes
 
+    //logo
+
+    //add more things
+
+    //finished
+
 
 }
